@@ -95,3 +95,9 @@ To run the project locally:
 4. Open your browser 
 
 ---
+
+## 🎥 Video
+
+https://github.com/user-attachments/assets/e7191b32-3809-46db-bea3-846a852567f6
+
+---
